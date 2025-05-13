@@ -1,0 +1,18 @@
+# Ignore TouchDesigner temp and cache files
+*.toe~
+*.bak
+.DMP/
+.TouchDesignerCache/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore media files (if not needed in version control)
+*.mp4
+*.mov
+*.jpg
+*.png
